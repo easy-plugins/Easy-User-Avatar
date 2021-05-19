@@ -64,7 +64,7 @@ You can also add an alignment of "left", "right", or "center":
 On an author page outside of [The Loop](http://codex.wordpress.org/The_Loop), you may be using:
 
 `<?php
-  $user = get_user_by('slug', $author_name); 
+  $user = get_user_by('slug', $author_name);
   echo get_avatar($user->ID, 96);
 ?>`
 
