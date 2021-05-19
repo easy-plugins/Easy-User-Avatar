@@ -21,7 +21,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 /**
  * Let's get started!
  */
-class WP_User_Avatar_Setup {
+final class Easy_Plugins_User_Avatar {
 
 	/**
 	 * Constructor
@@ -104,4 +104,4 @@ class WP_User_Avatar_Setup {
 /**
  * Initialize
  */
-new WP_User_Avatar_Setup();
+new Easy_Plugins_User_Avatar();
