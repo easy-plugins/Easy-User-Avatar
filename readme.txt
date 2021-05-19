@@ -1,12 +1,14 @@
-=== WP User Avatar | User Profile Picture ===
+=== Easy User Avatar | User Profile Picture ===
 
-Contributors: properfraction, collizo4sky
-Tags: user profile, avatar, gravatar, author image, author photo, author avatar, bbPress, profile avatar, profile image, user avatar, user image, user photo, widget
-Requires at least: 4.0
+Contributors: shazahm1@hotmail.com
+Donate link: https://connections-pro.com/
+Tags: user profile, avatar, gravatar, author image, author photo, author avatar, bbPress, profile avatar, profile image, user avatar, user image, user photo
+Requires at least: 5.1
 Tested up to: 5.7
+Requires PHP: 5.6.20
 Stable tag: 2.2.16
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Use any image from your WordPress Media Library as a custom user avatar or user profile picture. Add your own Default Avatar.
 

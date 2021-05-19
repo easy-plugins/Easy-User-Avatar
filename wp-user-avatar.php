@@ -1,14 +1,18 @@
 <?php
-/*
-Plugin Name: WP User Avatar
-Plugin URI: http://wordpress.org/plugins/wp-user-avatar/
-Description: Use any image from your WordPress Media Library as a custom user avatar. Add your own Default Avatar.
-Author: ProfilePress
-Author URI: https://profilepress.net/
-Version: 2.2.16
-Text Domain: wp-user-avatar
-Domain Path: /lang/
-*/
+/**
+ * Plugin Name:       Easy Plugins - User Avatar
+ * Plugin URI:        https://connections-pro.com/
+ * Description:       Use any image from your WordPress Media Library as a custom user avatar. Add your own Default Avatar.
+ * Version:           2.2.16
+ * Requires at least: 5.1
+ * Requires PHP:      5.6.20
+ * Author:            Steven A. Zahm
+ * Author URI:        https://connections-pro.com/
+ * License:           GPL-2.0+
+ * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ * Text Domain:       wp-user-avatar
+ * Domain Path:       /lang
+ */
 
 if(!defined('ABSPATH')) {
   die('You are not allowed to call this page directly.');
