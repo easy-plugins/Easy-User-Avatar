@@ -18,6 +18,8 @@ if ( ! defined( 'ABSPATH' ) ) {
 	die( 'You are not allowed to call this page directly.' );
 }
 
+if ( ! class_exists( 'Easy_Plugins_User_Avatar ' ) ) :
+
 /**
  * Let's get started!
  */
@@ -105,3 +107,5 @@ final class Easy_Plugins_User_Avatar {
  * Initialize
  */
 new Easy_Plugins_User_Avatar();
+
+endif;
